@@ -1,7 +1,7 @@
 /*!
  * Adapted from Bootstrap docs JavaScript
  */
-
+ 
 
 !function ($) {
 

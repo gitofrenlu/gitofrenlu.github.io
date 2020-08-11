@@ -1,5 +1,5 @@
 # Site settings
-name: 璐璐的博客
+name: blog
 email: 905937702@qq.com
 author: 任璐
 url: https://gitofrenlu.github.io/
@@ -9,7 +9,7 @@ baseurl: ""
 description: Live and learn.
 meta_description: 任璐;个人博客;凡事都有偶然的凑巧;结果却又如宿命的必然;
 motto: 
-banner: 凡事都有偶然的凑巧,结果却又如宿命的必然
+banner: 凡事都有偶然的凑巧,结果又如宿命的必然
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
